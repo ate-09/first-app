@@ -1,4 +1,7 @@
 planning  
+  
+step by step: 
+
 
 -first
 -second 
